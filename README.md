@@ -1,4 +1,4 @@
-# my_first_app
+# PMSS Scholarship App(my_first_app)
 
 A new Flutter project.
 
